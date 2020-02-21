@@ -7,5 +7,4 @@
 4. Doomsday
 5. Deadshot
 6. Joker
-7. Thanos 
 
