@@ -4,7 +4,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia y por q
 
 
 ## Notas
-Pueden hacer lo que quieran...mientras no afecte esto no hay problema
+Pueden hacer lo que quieran...mientras no afecte esto no hay problem
 
 
 Prureba fetch windows 2 desde git  desde window
